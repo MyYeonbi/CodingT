@@ -2,7 +2,7 @@ package codingTest;
 import java.util.*;
 
 public class Solution {
-    ```java
+
     public int solution(String[] maps) {
         //✅ 주어진 입력을 사용하기 좋게 전처리한다.
         int n = maps.length;
